@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Alex “King” Chaves and I’m a Full‑Stack Architect & Game Dev, from Ceará, Brazil</h2>
+<h2 align="left">Hi 👋! My name is Alex “King” Chaves and I’m a Full‑Stack Architect & Game Dev, from Brazil</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src=""  />
 
 ###
 
