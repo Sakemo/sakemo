@@ -1,40 +1,31 @@
-# Hey there 🤓
+## Hey there 🤓
 
-I'm Alex, 21, a software and game engineer based in Brazil.
+I'm Alex, a 21-year-old software/game engineer from Brazil.
 
-I like to treat coding as art. If an idea pops into my head, I build it.  
-And I ship it.
+I like to treat coding as art.  
+If an idea pops into my head, I build it. And ship it.
 
-## Recent project
+### ✅ Recent Project
+#### Flick.Business
+A sales management system built with Java Spring Boot and React.
+I created it after spending 5 years working IT in a small store where cashiers still used pen and paper because existing systems were too complex for small businesses.
+The goal was to build something simple, accessible, and actually useful for people who are not technical.
 
-### [Flick.Business](https://sgvs-ui.onrender.com/login)
-My most recent finished project is a sales management system.
+### 🟡 Current Projects
+#### K.O.R.E
+My **passion** project.
+A C++ RPG & visual novel game engine made for building games with more freedom and performance than traditional beginner-friendly engines.
+I'm building it because I want to create my own game completely from scratch, including the engine itself.
+The long-term goal is to release it as an open-source engine for indie developers.
 
-I built it because I spent 5 years working in IT at a small store, from age 16 to 21, where the cashiers still used pen and paper. It was a very small business, and there was no sales system accessible enough for people who don’t understand Excel or complex ERP software.
+#### RollX
+One of my most ambitious ideas.
+A local-first tabletop RPG platform built in C++ focused on flexibility, performance, and support for multiple TTRPG systems.
+The current test system is Advanced Dungeons & Dragons.
+The idea is to make every tabletop RPG system playable while avoiding cloud-related limitations and costs.
 
-So I built one.
-
-It was developed with **Java Spring Boot + React**, with a focus on simplicity, accessibility, and real-world usefulness.
-
-## Currently working on
-
-### K.O.R.E
-My passion project.
-
-K.O.R.E is a **C++ RPG + visual novel game engine**. I’m building it because I want to create my own game from scratch — engine included.
-
-The goal is to make it open source and accessible for people who want to build games in the style of RPG Maker, but with more performance, more freedom, and more control.
-
-### RollX
-My most ambitious idea so far.
-
-RollX is a platform for making every tabletop RPG system playable. The current test system is **Advanced Dungeons & Dragons**.
-
-It is being built in **C++** and designed to run locally on desktop, avoiding cloud storage costs and giving users more flexibility. Think of it as a more powerful, more open version of Roll20.
-
-## Fun facts
-
-- I have one dog
-- I’m a coffee addict, like most developers
-- I speak **English, Portuguese, and Japanese**
-- I love literature, videogames, and anime
+### Fun Facts
+- ☕ Coffee addict
+- 🌏 I speak English, Portuguese, and Japanese
+- 📚 Into literature, videogames, anime, and game design
+- 🐶 I have one dog
