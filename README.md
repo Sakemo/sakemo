@@ -1,5 +1,5 @@
 ## Hey there 🤓
-I'm **Alex**, a 21-year-old software/game engineer from Brazil.
+I'm [**Alex**](https://alexanderkingdev.carrd.co/), a 21-year-old software/game engineer from Brazil.
 
 I like to treat coding as art.  If an idea pops into my head, I build it. And ship it.
 #### Most Recent Project
