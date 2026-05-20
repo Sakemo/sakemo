@@ -9,14 +9,13 @@ A sales management system built with *Java Spring Boot* and *React*.
 I created it after spending 5 years working IT in a small store where cashiers still used pen and paper because existing systems were too complex for small businesses.
 The goal was to build something simple, accessible, and actually useful for people who are not technical.
 #### Current Projects
-**K.O.R.E**: My **passion** project. A *C++* RPG & visual novel game engine made for building games with more freedom and performance than traditional beginner-friendly engines.
-I'm building it because I want to create my own game completely from scratch, including the engine itself.
-The long-term goal is to release it as an open-source engine for indie developers.
+| Project      | Progress | Description                                                                                                                                                                                                                                                                                                                                                        |
+| ------------ | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **DevLog**   | **88%**  | TypeScript VS Code extension that tracks coding activity and automatically saves work logs into a GitHub dev-journal repository.                                                                                                                                                                                                                                   |
+| **Techroad** | **62%**  | Interactive learning platform inspired by Duolingo for developer career roadmaps, featuring gamified study paths built with Spring Boot + React.                                                                                                                                                                                                                   |
+| **Roll X**   | **27%**  | One of my most ambitious ideas. A local-first tabletop RPG platform built in *C++* focused on flexibility, performance, and support for multiple TTRPG systems. The current test system is Advanced Dungeons & Dragons. The idea is to make every tabletop RPG system playable while avoiding cloud-related limitations and costs.                                 |
+| **K.O.R.E**  | **12%**  | My **passion** project. A *C++* RPG & visual novel game engine made for building games with more freedom and performance than traditional beginner-friendly engines. I'm building it because I want to create my own game completely from scratch, including the engine itself. The long-term goal is to release it as an open-source engine for indie developers. |
 
-**RollX**: One of my most ambitious ideas.
-A local-first tabletop RPG platform built in *C++* focused on flexibility, performance, and support for multiple TTRPG systems.
-The current test system is Advanced Dungeons & Dragons.
-The idea is to make every tabletop RPG system playable while avoiding cloud-related limitations and costs.
 
 **Fun Facts**
 - ☕ Coffee addict
