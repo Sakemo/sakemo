@@ -1,7 +1,7 @@
 ## Hey there 🤓
 I'm [**Alex**](https://alexanderkingdev.carrd.co/), a 21-year-old software engineer from Brazil.
+I just make *art* out of code.
 
-I like to treat coding as art.  If an idea pops into my head, I build it. And ship it.
 #### Most Recent Project
 **[Flick.Business](https://sgvs-ui.onrender.com/)** • *[API](https://github.com/Sakemo/sgvs-api.git) | [UI](https://github.com/Sakemo/sgvs-ui.git)*
 
