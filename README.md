@@ -11,7 +11,7 @@ I just make *art* out of code.
 
 
 **Fun Facts**
-- ☕ Coffee addict
+- ☕ Coffee addict (Like all the good devs)
 - 🌏 I speak English, Portuguese, and Japanese
 - 📚 Into literature, videogames, anime, and game design
 - 🐶 I have one dog
