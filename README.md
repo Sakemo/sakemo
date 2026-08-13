@@ -3,11 +3,9 @@ I'm [**Alex**](https://alexanderkingdev.carrd.co/), a 21-year-old software engin
 
 I just make *art* out of code.
 
-| | Most Recent Project |
-| ------------- | ------------- |
-| [Flick.Business](https://sgvs-ui.onrender.com/)  | A sales management system built with *Java Spring Boot* and *React*. I created it after spending 5 years working IT in a small store where cashiers still used pen and paper because existing systems were too complex for small businesses. The goal was to build something simple, accessible, and actually useful for people who are not technical.|
-| [API](https://github.com/Sakemo/sgvs-api.git) |  Spring Boot REST API for flick.business with JWT security and PostgreSQL.  |
-| [UI](https://github.com/Sakemo/sgvs-ui.git) | React + TypeScript frontend for flick.business, featuring i18n, and dark/light mode.  |
+| | Most Recent Project | [API](https://github.com/Sakemo/sgvs-api.git) | [UI](https://github.com/Sakemo/sgvs-ui.git) |
+| ------------- | ------------- | ------------- | ------------- | 
+| [Flick.Business](https://sgvs-ui.onrender.com/)  | A sales management system built with *Java Spring Boot* and *React*. I created it after spending 5 years working IT in a small store where cashiers still used pen and paper because existing systems were too complex for small businesses. The goal was to build something simple, accessible, and actually useful for people who are not technical. |Spring Boot REST API for flick.business with JWT security and PostgreSQL.  | React + TypeScript frontend for flick.business, featuring i18n, and dark/light mode.  |
 
 
 **Fun Facts**
